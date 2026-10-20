@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Railwake">
+  <rect width="32" height="32" rx="6" fill="#14110e"/>
+  <rect x="3" y="18" width="26" height="4" rx="1" fill="#c9a227"/>
+  <rect x="6" y="22" width="3" height="6" fill="#8d8072"/>
+  <rect x="14.5" y="22" width="3" height="6" fill="#8d8072"/>
+  <rect x="23" y="22" width="3" height="6" fill="#8d8072"/>
+  <polygon points="13.2,11.2 22.4,8.2 23.2,11.2 15.6,13.6" fill="#c9a227"/>
+  <polygon points="8.6,12.2 15.6,12.2 21.2,16.6 14.4,17.4 10.2,16.6" fill="#e4572e"/>
+  <circle cx="12.2" cy="8.4" r="3" fill="#f4ecdf"/>
+</svg>
